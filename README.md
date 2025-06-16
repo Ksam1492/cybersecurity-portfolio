@@ -1,49 +1,19 @@
-# Cybersecurity Portfolio by Ksam1492
+Welcome to my cybersecurity portfolio — a hands-on collection of labs, technical reports, policy documents, presentations, and tools developed through coursework and personal projects. This repository showcases my practical skills in system administration, penetration testing, secure network configuration, cryptographic analysis, and cybersecurity policy development.
 
-Welcome to my cybersecurity portfolio — a hands-on collection of labs, policies, reports, and experiments built using a custom home lab setup. This repository showcases my skills in system administration, penetration testing, vulnerability analysis, and policy development.
+### 📦 What You'll Find in This Repo:
 
----
+- 🧠 **Cybersecurity Presentations**  
+  Video walkthroughs, PowerPoint slides, and tools demonstrating topics like Tor, tracert, OWASP A06, Caesar Ciphers, and wireless scanning with WiGLE.
 
-## Home Lab Projects (`/HomeLabPC`)
+- 🧪 **HomeLabPC Projects**  
+  A virtualized home lab using Kali Linux and Ubuntu on a headless Windows 10 machine. Includes a home network penetration test with supporting documentation.
 
-Virtual machines and configurations running on a headless Windows 10 system using Oracle VirtualBox and AnyDesk for remote access.
+- 📁 **Formal Reports & Policies**  
+  NIST- and ISO-aligned policy writeups on mobile security, disaster recovery, access control, and more.
 
-- Kali Linux for penetration testing
-- Ubuntu for server and networking tasks
-- Nmap, Wireshark, Nessus, and other tools
-- Project writeups and lab experiments coming soon
-
----
-
-## Class Reports & Policy Labs (`/reports`)
-
-A collection of formal cybersecurity policy labs and documentation from my coursework:
-
-| Folder | Description |
-|--------|-------------|
-| `SecurityOpsPolicy` | Incident Response, Disaster Recovery, and Business Continuity |
-| `RecordRetentionPolicy` | Data retention and destruction procedures |
-| `MobileDeviceSecurity` | Mobile device acceptable use and MDM policy |
-| `IAMPolicy` | Identity and Access Management for secure access |
-| `SecureSDLCPolicy` | Secure coding, DevOps, and SDLC documentation |
+- 🛠 **Custom Security Tools**  
+  Hands-on tools like a Caesar Cipher breaker built in Excel/Sheets, used to demonstrate brute-force and encryption basics.
 
 ---
 
-## Tools & Skills Highlighted
-
-- NIST and ISO policy development
-- Linux and Windows system administration
-- Secure network configuration
-- Vulnerability scanning and mitigation
-- Cybersecurity documentation and reporting
-
----
-
-## Contact
-
-- GitHub: [Ksam1492](https://github.com/Ksam1492)
-- LinkedIn: [linkedin.com/in/sammendez14](https://www.linkedin.com/in/sammendez14)
-
----
-
-Built using a virtual home lab to develop and demonstrate real-world cybersecurity skills.
+This portfolio reflects both academic learning and practical experimentation in the field of cybersecurity.
