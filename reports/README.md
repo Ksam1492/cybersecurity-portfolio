@@ -25,5 +25,3 @@ These are included to:
 - Showcase hands-on work from cybersecurity courses
 - Demonstrate report writing, assessment, and analysis skills
 - Serve as a knowledge base for future home lab projects
-
-- Add reports folder with README for past class docs
