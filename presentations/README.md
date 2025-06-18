@@ -1,36 +1,26 @@
 # 🎥 Cybersecurity Presentations
 
-Welcome to my collection of short cybersecurity presentations and tool demonstrations. Each folder contains a recorded video, a slide deck, and (where applicable) demo tools or scripts used in the session.
+Welcome to my growing collection of short cybersecurity presentations and tool demonstrations. Each folder contains a recorded video, a slide deck, and (where applicable) supporting tools, scripts, or written transcripts used in the session.
 
-## 📄 Presentations
+These projects were created through academic coursework and personal experimentation, and currently cover topics such as:
 
-- [Protecting Customer Data](./protecting-customer-data/README.md)  
-  _Covers web security strategies such as encryption, audits, password policies, and employee training._
-
-- [WiGLE.net Overview](./wigle-overview/README.md)  
-  _Explains WiGLE's use for wireless network mapping, reconnaissance, and geolocation in cybersecurity._
-
-- [Tracert Command](./tracert-overview/README.md)  
-  _Shows how to use `tracert` to diagnose network issues and visualize data packet paths._
-
-- [Tor Browser & Anonymity](./tor-browser-overview/README.md)  
-  _Demonstrates Tor for anonymous web browsing and discusses ethical/legal implications._
-
-- [OWASP A06 - Outdated Components](./owasp-a06-outdated-components/README.md)  
-  _Discusses the dangers of vulnerable software components and how to avoid supply chain attacks._
-
-- [Shift Cipher Demo (Caesar Cipher)](./shift-cipher-demo/README.md)  
-  _Explores the basics of Caesar ciphers and includes a brute-force cracking tool built in Excel._
+- Web security practices and customer data protection  
+- Wireless reconnaissance with WiGLE.net  
+- Network path tracing using `tracert`  
+- Anonymous web browsing with Tor Browser  
+- OWASP Top 10: Outdated components  
+- Classical encryption (Caesar/Shift Ciphers)  
+- The impact of hate crimes in digital spaces
 
 ---
 
-📁 Each folder contains:
-- A `README.md` overview
-- The presentation slides (`.pptx`)
-- A video link to the unlisted YouTube recording
-- Any supporting tools or files
+## 🗂️ Each Folder Contains:
+
+- A `README.md` with a summary and topics covered  
+- A PowerPoint slide deck (`.pptx`)  
+- A link to the unlisted YouTube presentation  
+- Optional tools, transcripts, or reference materials
 
 ---
 
-**Author:** Sam Mendez  
-**Focus Areas:** Cybersecurity, Network Tools, Encryption, Web Application Security
+📌 This folder demonstrates my technical communication skills, cybersecurity knowledge, and ability to present complex ideas clearly through hands-on demos and video presentations.
